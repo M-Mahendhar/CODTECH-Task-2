@@ -29,7 +29,7 @@ This project isa vehicle tracking system using Arduino with GPS and GSM modules.
 
 •	Programming the Aduino.
 
-•	Monitoring the Real-Time Temperature and Humidity values.
+•	Locating the vehicle's real-time location(longitude, latitiude).
 
 
 **Technologies used:**
@@ -45,9 +45,9 @@ This project isa vehicle tracking system using Arduino with GPS and GSM modules.
 
 •	Arduino UNO is the main control unit of the system.
 
-•	GPS module is used to locate the vehicle using Longitudes and Latitudes.
+•	GPS and GSM modules are used to locate the vehicle using Longitudes and Latitudes, along with it's real-time location.
 
-•	16*2 Liquid Crystal Display (LCD) is used to display the readings.
+•	16*2 Liquid Crystal Display (LCD) is used to display the vehicle location.
 
 •	Arduino IDE is used to write and debug the code.
 
